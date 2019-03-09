@@ -39,7 +39,7 @@ For windows user or to ensure the requirements are met also check out the [IBM B
 ### Useful links
 Hyperledger Fabric
 
-[Hyperledger Fabric 1.4.x docs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
+[Hyperledger Fabric 1.4.x docs](https://hyperledger-fabric.readthedocs.io/)
 
 IBM Resources
 
