@@ -29,7 +29,7 @@ get things started.  There are perfectly adequate
 shell scripts on the HyperFabric samples direcgtory that let you do this in case you are
 a command line only programmer.
 ```
-You will need to follow the requirements for the [IBM Blockchain Platform Extension for VS Code](https://github.com/IBM-Blockchain/blockchain-vscode-extension/blob/master/README.md#requirements):
+For windows user or to ensure the requirements are met also check out the [IBM Blockchain Platform Extension for VS Code](https://github.com/IBM-Blockchain/blockchain-vscode-extension/blob/master/README.md#requirements):
 
 # Steps
 ## Development on your local environment
