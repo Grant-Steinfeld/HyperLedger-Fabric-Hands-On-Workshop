@@ -17,9 +17,6 @@ How to deploy applications with Hyperledger Fabric and the IBM Blockchain Platfo
 1. How to create and setup a smart contract example blockchain application using the IBM Cloud.
 
 ## Prerequisites
-You will need to follow the requirements for the [IBM Blockchain Platform Extension for VS Code](https://github.com/IBM-Blockchain/blockchain-vscode-extension/blob/master/README.md#requirements):
-
-
 - [Node v8.x or greater and npm v5.x or greater](https://nodejs.org/en/download/)
 - [Yeoman (yo) v2.x](http://yeoman.io/)
 - [Docker version v17.06.2-ce or greater](https://www.docker.com/get-docker)
@@ -32,6 +29,7 @@ get things started.  There are perfectly adequate
 shell scripts on the HyperFabric samples direcgtory that let you do this in case you are
 a command line only programmer.
 ```
+You will need to follow the requirements for the [IBM Blockchain Platform Extension for VS Code](https://github.com/IBM-Blockchain/blockchain-vscode-extension/blob/master/README.md#requirements):
 
 # Steps
 ## Development on your local environment
