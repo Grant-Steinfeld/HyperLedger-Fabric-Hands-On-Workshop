@@ -8,6 +8,8 @@ The Hyperledger Project is quickly becoming the front-runner in enterprise Block
 In this workshop, you will learn:
 How to deploy applications with Hyperledger Fabric and the IBM Blockchain Platform, which is designed to accelerate the development, governance, and operation of enterprise business networks running on the IBM Cloud.
 
+
+
 ```
 ### What you will learn
 1. Understand and setup the basics of Hyperledger Fabric network
@@ -23,6 +25,13 @@ You will need to follow the requirements for the [IBM Blockchain Platform Extens
 - [Docker version v17.06.2-ce or greater](https://www.docker.com/get-docker)
 - [Docker Compose v1.14.0 or greater](https://docs.docker.com/compose/install/)
 - [VSCode version 1.26 or greater](https://code.visualstudio.com)
+
+```
+Why Visual Studio Code.  It's easier to 
+get things started.  There are perfectly adequate
+shell scripts on the HyperFabric samples direcgtory that let you do this in case you are
+a command line only programmer.
+```
 
 # Steps
 ## Development on your local environment
