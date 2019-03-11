@@ -4,7 +4,8 @@
 ![IBM](images/IBM-logo-all-colors.gif)
 
 
-This document is available here: https://bit.ly/2J7DAN2
+This document is available here: 
+## https://bit.ly/2J7DAN2
 
 [Presentation slides for this workshop on slideshare](https://www.slideshare.net/GrantSteinfeld/ibm-presents-hyperledger-fabric-hands-on-workshop-part-1)
 
