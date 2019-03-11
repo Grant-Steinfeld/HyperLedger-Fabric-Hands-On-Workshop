@@ -1,4 +1,12 @@
 # HyperLedger-Fabric-Hands-On-Workshop
+
+![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png) 
+![IBM](images/IBM-logo-all-colors.gif)
+
+
+This document is available here: https://bit.ly/2J7DAN2
+
+
 Learn to Build Blockchain Applications with Hyperledger Fabric
 
 
@@ -14,7 +22,7 @@ How to deploy applications with Hyperledger Fabric and the IBM Blockchain Platfo
 ### What you will learn
 1. Understand and setup the basics of Hyperledger Fabric network
 1. How to code and run the FabCar tutorial
-1. How to create and setup a smart contract example blockchain application using the IBM Cloud.
+1. Be shown how to create and setup a smart contract example blockchain application using the IBM Cloud.
 
 ## Prerequisites
 - [Node v8.x or greater and npm v5.x or greater](https://nodejs.org/en/download/)
@@ -36,11 +44,44 @@ For windows user or to ensure the requirements are met also check out the [IBM B
 1. [Install IBM Blockchain VS Code Extension](#step-1-Install-IBM-Blockchain-VS-Code-Extension)
 
 
+## Hands on Demos
+
+Link to the Fabric Samples code:
+```
+git clone https://github.com/hyperledger/fabric-samples.git
+cd fabric-samples/fabcar
+```
+
+1) [Developing your first smart contract](https://github.com/ibm-blockchain-workshop/ibm-blockchain-workshop.github.io/blob/master/docs/Lab2-IBPVSCodeDevelopingyourFirstContract.pdf)
+
+
+
+2) [FabCar demo](https://github.com/ibm-blockchain-workshop/ibm-blockchain-workshop.github.io/blob/master/docs/Lab3-IBPVSCodeExtensionUsinganExistingContract.pdf)
+
+
+3) Demo Fabric on the IBM Cloud
+[Hyperledger Fabric sample Using Event Handling with IBM Blockchain Platform V2.0](https://github.com/IBM/auction-events/)
+
+
+
 ### Useful links
-Hyperledger Fabric
+#### Hyperledger Fabric
 
 [Hyperledger Fabric 1.4.x docs](https://hyperledger-fabric.readthedocs.io/)
 
-IBM Resources
+[Fab Car Demo code (alt to git clone)](
+https://github.com/hyperledger/fabric-samples/tree/release-1.4/fabcar)
+
+#### IBM Resources
 
 [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform)
+
+
+[Sign up for free IBM Cloud account ]( https://ibm.biz/Bd2ugr)
+
+[IBM Developer](https://developer.ibm.com/)
+
+
+
+
+
