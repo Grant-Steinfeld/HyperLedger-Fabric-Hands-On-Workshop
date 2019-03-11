@@ -1,24 +1,21 @@
-# IBM presents: Hyperledger Fabric Hands On Workshop - part 1
+# Hyperledger Fabric Code Workshop - Part l
 
-![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png)
-
-![IBM](images/IBM-logo-all-colors.gif)
+![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png) ![IBM](images/IBM-logo-all-colors.gif)
 
 
 This document is available online here: 
-### https://bit.ly/2J7DAN2
+# https://bit.ly/2J7DAN2
 
 [Presentation slides for this workshop on slideshare](https://www.slideshare.net/GrantSteinfeld/ibm-presents-hyperledger-fabric-hands-on-workshop-part-1)
 
 Learn to Build Blockchain Applications with Hyperledger Fabric
 
 ```
-The Hyperledger Project is quickly becoming the front-runner in enterprise Blockchain solutions 
+The Hyperledger Project is quickly becoming the front-runner in enterprise blockchain solutions 
 and has attracted talent and resources from industry leaders like IBM and Intel in an open
 source collaborative effort to advance cross-industry blockchain technologies.
 It is a global collaboration, hosted by The Linux Foundation, 
-including leaders in finance, banking,
-Internet of Things, supply chains, manufacturing, and Technology.
+including leaders in finance, banking, Internet of Things, supply chains, manufacturing, and Technology.
 ```
 ### What you will learn
 1. Understand and setup the basics of Hyperledger Fabric network
@@ -33,11 +30,12 @@ Internet of Things, supply chains, manufacturing, and Technology.
 - [VSCode version 1.26 or greater](https://code.visualstudio.com)
 
 ```
-Why Visual Studio Code.  It's easier to 
-get things started.  There are perfectly adequate
-shell scripts on the HyperFabric samples direcgtory that let you do this in case you are
-a command line only programmer.
+Why Visual Studio Code.  It's easier to get things started.
+For CLI only programmers, there are perfectly adequate
+ shell scripts in the Fabric samples directory.
 ```
+[Fabric Samples Dir ](https://github.com/hyperledger/fabric-samples)
+
 For windows user or to ensure the requirements are met also check out the [IBM Blockchain Platform Extension for VS Code](https://github.com/IBM-Blockchain/blockchain-vscode-extension/blob/master/README.md#requirements):
 
 # Steps
@@ -68,7 +66,6 @@ Lab documentation (Ubuntu!)
 
 
 #### Useful links
-
  [Hyperledger Fabric v1.4 docs](https://hyperledger-fabric.readthedocs.io/)
 
 [Fab Car Demo code (alt to git clone)](
@@ -88,4 +85,4 @@ Grant Steinfeld
 IBM Developer Advocate Blockchain / Java / NodeJS -- North America East
    Twitter        @gsteinfeld
    LinkedIn:      https://linkedin.com/in/grant-steinfeld
-   ```
+```
