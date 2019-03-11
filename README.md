@@ -1,18 +1,16 @@
 # IBM presents: Hyperledger Fabric Hands On Workshop - part 1
 
 ![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png)
- 
+
 ![IBM](images/IBM-logo-all-colors.gif)
 
 
 This document is available online here: 
-## https://bit.ly/2J7DAN2
+### https://bit.ly/2J7DAN2
 
 [Presentation slides for this workshop on slideshare](https://www.slideshare.net/GrantSteinfeld/ibm-presents-hyperledger-fabric-hands-on-workshop-part-1)
 
-
 Learn to Build Blockchain Applications with Hyperledger Fabric
-
 
 ```
 The Hyperledger Project is quickly becoming the front-runner in enterprise Blockchain solutions 
@@ -48,7 +46,6 @@ For windows user or to ensure the requirements are met also check out the [IBM B
 
 
 ## Hands on Demos
-
 Link to the Fabric Samples code:
 ```
 git clone https://github.com/hyperledger/fabric-samples.git
@@ -56,12 +53,10 @@ cd fabric-samples/fabcar
 ```
 
 ## Follow along!
-
 For later reference:
 
 Lab documentation (Ubuntu!)
 1) [Developing your first smart contract](https://github.com/ibm-blockchain-workshop/ibm-blockchain-workshop.github.io/blob/master/docs/Lab2-IBPVSCodeDevelopingyourFirstContract.pdf)
-
 
 
 2) [FabCar demo](https://github.com/ibm-blockchain-workshop/ibm-blockchain-workshop.github.io/blob/master/docs/Lab3-IBPVSCodeExtensionUsinganExistingContract.pdf)
@@ -72,41 +67,27 @@ Lab documentation (Ubuntu!)
 
 
 
-### Useful links
-#### Hyperledger Fabric
+#### Useful links
 
-[Hyperledger Fabric 1.4.x docs](https://hyperledger-fabric.readthedocs.io/)
+ [Hyperledger Fabric v1.4 docs](https://hyperledger-fabric.readthedocs.io/)
 
 [Fab Car Demo code (alt to git clone)](
 https://github.com/hyperledger/fabric-samples/tree/release-1.4/fabcar)
 
-#### IBM Resources
-
 [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform)
 
-
-Sign up for free IBM Cloud account 
-https://ibm.biz/Bd2ugr
+## Sign up for free IBM Cloud account  https://ibm.biz/Bd2ugr
 
 Visit [IBM Developer website](https://developer.ibm.com/)
 
 
-## Help and about the presenter
+## Help contact the presenter
 
 ```
-Feel free to contact:
-
 Grant Steinfeld
 IBM Developer Advocate Blockchain / Java / NodeJS
 North America East
 
    Twitter        @gsteinfeld
- 
-   Blog:          https://medium.com/@grantsteinfeld     
-   GitHub:        https://github.com/grant-steinfeld
    LinkedIn:      https://linkedin.com/in/grant-steinfeld
-   ...            https://GrantSteinfeld.com
    ```
-
-
-
