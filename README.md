@@ -23,7 +23,7 @@ including leaders in finance, banking, Internet of Things, supply chains, manufa
 1. Be shown how to create and setup a smart contract example blockchain application using the IBM Cloud.
 
 ## Prerequisites
-- [Node v8.x or greater and npm v5.x or greater](https://nodejs.org/en/download/)
+- [Node lts/carbon -> v8.14.x or greater and npm v6.x or greater](https://nodejs.org/en/download/)
 - [Yeoman (yo) v2.x](http://yeoman.io/)
 - [Docker version v17.06.2-ce or greater](https://www.docker.com/get-docker)
 - [Docker Compose v1.14.0 or greater](https://docs.docker.com/compose/install/)
@@ -31,7 +31,7 @@ including leaders in finance, banking, Internet of Things, supply chains, manufa
 
 ```
 Why Visual Studio Code.  It's easier to get things started.
-For CLI only programmers, there are perfectly adequate
+For COMMAND_LINE Heros, there are perfectly adequate
  shell scripts in the Fabric samples directory.
 ```
 [Fabric Samples Dir ](https://github.com/hyperledger/fabric-samples)
