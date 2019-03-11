@@ -1,6 +1,7 @@
 # IBM presents: Hyperledger Fabric Hands On Workshop - part 1
 
-![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png) 
+![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png)
+ 
 ![IBM](images/IBM-logo-all-colors.gif)
 
 
