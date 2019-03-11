@@ -13,10 +13,14 @@ Learn to Build Blockchain Applications with Hyperledger Fabric
 
 
 ```
-The Hyperledger Project is quickly becoming the front-runner in enterprise Blockchain solutions and has attracted talent and resources from industry leaders like IBM and Intel in an open source collaborative effort to advance cross-industry blockchain technologies. It is a global collaboration, hosted by The Linux Foundation, including leaders in finance, banking, Internet of Things, supply chains, manufacturing, and Technology.
+The Hyperledger Project is quickly becoming the front-runner in enterprise Blockchain solutions 
+and has attracted talent and resources from industry leaders like IBM and Intel in an open
+source collaborative effort to advance cross-industry blockchain technologies.
+It is a global collaboration, hosted by The Linux Foundation, 
+including leaders in finance, banking,
+Internet of Things, supply chains, manufacturing, and Technology.
 
-In this workshop, you will learn:
-How to deploy applications with Hyperledger Fabric and the IBM Blockchain Platform, which is designed to accelerate the development, governance, and operation of enterprise business networks running on the IBM Cloud.
+
 
 
 
