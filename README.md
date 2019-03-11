@@ -85,9 +85,7 @@ Visit [IBM Developer website](https://developer.ibm.com/)
 
 ```
 Grant Steinfeld
-IBM Developer Advocate Blockchain / Java / NodeJS
-North America East
-
+IBM Developer Advocate Blockchain / Java / NodeJS -- North America East
    Twitter        @gsteinfeld
    LinkedIn:      https://linkedin.com/in/grant-steinfeld
    ```
