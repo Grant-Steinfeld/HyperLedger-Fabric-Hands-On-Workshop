@@ -6,6 +6,8 @@
 
 This document is available here: https://bit.ly/2J7DAN2
 
+[Presentation slides for this workshop on slideshare](https://www.slideshare.net/GrantSteinfeld/ibm-presents-hyperledger-fabric-hands-on-workshop-part-1)
+
 
 Learn to Build Blockchain Applications with Hyperledger Fabric
 
@@ -51,7 +53,7 @@ Link to the Fabric Samples code:
 git clone https://github.com/hyperledger/fabric-samples.git
 cd fabric-samples/fabcar
 ```
-
+Lab documentation (Ubuntu!)
 1) [Developing your first smart contract](https://github.com/ibm-blockchain-workshop/ibm-blockchain-workshop.github.io/blob/master/docs/Lab2-IBPVSCodeDevelopingyourFirstContract.pdf)
 
 
