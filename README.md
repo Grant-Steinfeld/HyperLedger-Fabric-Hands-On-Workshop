@@ -19,11 +19,6 @@ source collaborative effort to advance cross-industry blockchain technologies.
 It is a global collaboration, hosted by The Linux Foundation, 
 including leaders in finance, banking,
 Internet of Things, supply chains, manufacturing, and Technology.
-
-
-
-
-
 ```
 ### What you will learn
 1. Understand and setup the basics of Hyperledger Fabric network
