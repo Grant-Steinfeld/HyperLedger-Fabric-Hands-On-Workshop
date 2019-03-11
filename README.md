@@ -79,9 +79,10 @@ https://github.com/hyperledger/fabric-samples/tree/release-1.4/fabcar)
 [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform)
 
 
-[Sign up for free IBM Cloud account ]( https://ibm.biz/Bd2ugr)
+Sign up for free IBM Cloud account 
+https://ibm.biz/Bd2ugr
 
-[IBM Developer](https://developer.ibm.com/)
+Visit [IBM Developer website](https://developer.ibm.com/)
 
 
 
