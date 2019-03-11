@@ -85,6 +85,22 @@ https://ibm.biz/Bd2ugr
 Visit [IBM Developer website](https://developer.ibm.com/)
 
 
+## Help and about the presenter
+
+```
+Feel free to contact:
+
+Grant Steinfeld
+IBM Developer Advocate Blockchain / Java / NodeJS
+North America East
+
+   Twitter        @gsteinfeld
+ 
+   Blog:          https://medium.com/@grantsteinfeld     
+   GitHub:        https://github.com/grant-steinfeld
+   LinkedIn:      https://linkedin.com/in/grant-steinfeld
+   ...            https://GrantSteinfeld.com
+   ```
 
 
 
