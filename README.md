@@ -1,14 +1,14 @@
-# Hyperledger Fabric Code Workshop - Part l
+# Hyperledger Fabric Code Workshop
 
 ![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png) ![IBM](images/IBM-logo-all-colors.gif)
 
 
 This document is available online here: 
-# https://bit.ly/2J7DAN2
+## https://bit.ly/2J7DAN2
 
-The slides for this workshop are in this repo
+Here is the [PowerPoint deck](./Hyperledger-Fabric-March.2019.v2.1.pptx) for this workshop.
 
-Learn to Build Blockchain Applications with Hyperledger Fabric
+##Learn to Build Blockchain Applications with Hyperledger Fabric
 
 ```
 The Hyperledger Project is quickly becoming the front-runner in enterprise blockchain solutions 
