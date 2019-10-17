@@ -6,7 +6,7 @@
 This document is available online here: 
 # https://bit.ly/2J7DAN2
 
-[Presentation slides for this workshop on slideshare](https://www.slideshare.net/GrantSteinfeld/ibm-presents-hyperledger-fabric-hands-on-workshop-part-1)
+The slides for this workshop are in this repo
 
 Learn to Build Blockchain Applications with Hyperledger Fabric
 
@@ -15,67 +15,40 @@ The Hyperledger Project is quickly becoming the front-runner in enterprise block
 and has attracted talent and resources from industry leaders like IBM and Intel in an open
 source collaborative effort to advance cross-industry blockchain technologies.
 It is a global collaboration, hosted by The Linux Foundation, 
-including leaders in finance, banking, Internet of Things, supply chains, manufacturing, and Technology.
+including leaders in finance, banking, Internet of Things, supply chain, service/parts maintainence, manufacturing, and technology.
 ```
 ### What you will learn
-1. Understand and setup the basics of Hyperledger Fabric network
-1. How to code and run the FabCar tutorial
-1. Be shown how to create and setup a smart contract example blockchain application using the IBM Cloud.
+1. What the core techinical components are that make up a basic instance of a Hyperledger Fabric Blockchain consortium.
+1. Understand a how to setup, code and run a local Commercial Paper Smart Contract example by using the IBM Blockchain Visual Studio Code extension.
+
 
 ## Prerequisites
-- [Node lts/carbon -> v8.14.x or greater and npm v6.x or greater](https://nodejs.org/en/download/)
+- [Node v8.x or greater and npm v5.x or greater](https://nodejs.org/en/download/)
 - [Yeoman (yo) v2.x](http://yeoman.io/)
 - [Docker version v17.06.2-ce or greater](https://www.docker.com/get-docker)
 - [Docker Compose v1.14.0 or greater](https://docs.docker.com/compose/install/)
-- [VSCode version 1.26 or greater](https://code.visualstudio.com)
+- [VS Code — see the marketplace for the minimum version to install](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
-```
-Why Visual Studio Code.  It's easier to get things started.
-For COMMAND_LINE Heros, there are perfectly adequate
- shell scripts in the Fabric samples directory.
-```
-[Fabric Samples Dir ](https://github.com/hyperledger/fabric-samples)
 
 For windows user or to ensure the requirements are met also check out the [IBM Blockchain Platform Extension for VS Code](https://github.com/IBM-Blockchain/blockchain-vscode-extension/blob/master/README.md#requirements):
 
 # Steps
 ## Development on your local environment
-1. [Install IBM Blockchain VS Code Extension](#step-1-Install-IBM-Blockchain-VS-Code-Extension)
-
-
-## Hands on Demos
-Link to the Fabric Samples code:
-```
-git clone https://github.com/hyperledger/fabric-samples.git
-cd fabric-samples/fabcar
-```
-
-## Follow along!
-For later reference:
-
-Lab documentation (Ubuntu!)
-1) [Developing your first smart contract](https://github.com/ibm-blockchain-workshop/ibm-blockchain-workshop.github.io/blob/master/docs/Lab2-IBPVSCodeDevelopingyourFirstContract.pdf)
-
-
-2) [FabCar demo](https://github.com/ibm-blockchain-workshop/ibm-blockchain-workshop.github.io/blob/master/docs/Lab3-IBPVSCodeExtensionUsinganExistingContract.pdf)
-
-
-3) Demo Fabric on the IBM Cloud
-[Hyperledger Fabric sample Using Event Handling with IBM Blockchain Platform V2.0](https://github.com/IBM/auction-events/)
+### We will walk you through and help you to code this excellent tutorial on IBM Developer 
+[Run a commercial paper smart contract with the IBM Blockchain VS Code extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
 
 
 
-#### Useful links
+
+#### Resources
  [Hyperledger Fabric v1.4 docs](https://hyperledger-fabric.readthedocs.io/)
 
-[Fab Car Demo code (alt to git clone)](
-https://github.com/hyperledger/fabric-samples/tree/release-1.4/fabcar)
 
 [IBM Blockchain Platform](https://www.ibm.com/blockchain/platform)
 
 ## Sign up for free IBM Cloud account  https://cloud.ibm.com
 
-Resources, tutorials and code-patterns - [IBM Developer website](https://developer.ibm.com/)
+Other Resources, tutorials and code-patterns - [IBM Developer website](https://developer.ibm.com/)
 
 
 ## For future events and meetups 
