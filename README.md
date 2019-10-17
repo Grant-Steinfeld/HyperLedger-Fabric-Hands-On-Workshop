@@ -8,7 +8,7 @@ This document is available online here:
 
 Here is the [PowerPoint deck](./Hyperledger-Fabric-March.2019.v2.1.pptx) for this workshop.
 
-##Learn to Build Blockchain Applications with Hyperledger Fabric
+## Learn to Build Blockchain Applications with Hyperledger Fabric
 
 ```
 The Hyperledger Project is quickly becoming the front-runner in enterprise blockchain solutions 
