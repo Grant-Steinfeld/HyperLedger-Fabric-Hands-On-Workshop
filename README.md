@@ -23,14 +23,9 @@ including leaders in finance, banking, Internet of Things, supply chain, service
 
 
 ## Prerequisites
-- [Node v8.x or greater and npm v5.x or greater](https://nodejs.org/en/download/)
-- [Yeoman (yo) v2.x](http://yeoman.io/)
-- [Docker version v17.06.2-ce or greater](https://www.docker.com/get-docker)
-- [Docker Compose v1.14.0 or greater](https://docs.docker.com/compose/install/)
-- [VS Code — see the marketplace for the minimum version to install](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+Please setup the following [prerequisites](./PREREQUISITES.md) before the workshop, so we can spend time on coding rather than setup.
+If you have any trouble setting them up, don't worry we can help you either before or after the workshop.
 
-
-For windows user or to ensure the requirements are met also check out the [IBM Blockchain Platform Extension for VS Code](https://github.com/IBM-Blockchain/blockchain-vscode-extension/blob/master/README.md#requirements):
 
 # Steps
 ## Development on your local environment
