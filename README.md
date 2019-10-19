@@ -41,6 +41,11 @@ For windows user or to ensure the requirements are met also check out the [IBM B
 
 
 #### Resources
+
+https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/
+
+https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/
+
  [Hyperledger Fabric v1.4 docs](https://hyperledger-fabric.readthedocs.io/)
 
 
