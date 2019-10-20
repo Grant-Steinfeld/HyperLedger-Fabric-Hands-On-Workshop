@@ -20,7 +20,7 @@ At this time of writing ( Oct 19th 2019 ) simply run
 
 ``` sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash
-echo "follow instructions to reload your shell to run nvm"
+echo "follow instructions to reload your shell to run nvm and set the default version"
 ```
 
 **If installing Node and npm using a manager such as 'nvm', you will need to set the default/global version and restart VS Code for the version to be detected by the IBM Blockhain Platform Extension Prerequisites page.**
