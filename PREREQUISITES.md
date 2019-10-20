@@ -28,7 +28,7 @@ echo "follow instructions to reload your shell to run nvm"
 
 You will need the following installed in order to use the extension:
 - Windows 10, Linux, or Mac OS are currently the supported operating systems.
-- [VS Code version 1.32 or greater](https://code.visualstudio.com)
+- [VS Code version 1.32 or greater](https://code.visualstudio.com) - ( at this time of writing I have 1.39.2 on Mojave/MacOS )
 - [Docker version v17.06.2-ce or greater](https://www.docker.com/get-docker)
 - [Docker Compose v1.14.0 or greater](https://docs.docker.com/compose/install/)
 - [Node v8.x or v10.x and npm v6.x or greater](https://nodejs.org/en/download/)
