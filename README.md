@@ -67,3 +67,10 @@ IBM Developer Advocate Blockchain / Java / NodeJS -- North America East
    Twitter        @gsteinfeld
    LinkedIn:      https://linkedin.com/in/grant-steinfeld
 ```
+
+
+
+## Troubleshooting
+1. always have latest Docker and Docker compose setup.
+1. brew uninstall docker-machine
+Uninstalling /usr/local/Cellar/docker-machine/0.16.1... (11 files, 35.8MB)
