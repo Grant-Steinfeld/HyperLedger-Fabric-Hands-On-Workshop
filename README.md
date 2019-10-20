@@ -1,4 +1,8 @@
-# Hyperledger Fabric Code Workshop
+Hyperledger Fabric Code Workshop - Quick Start
+
+https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/# 
+
+https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/
 
 ![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png) ![IBM](images/IBM-logo-all-colors.gif)
 
