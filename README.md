@@ -48,29 +48,61 @@ https://github.com/horeaporutiu/commercialPaperLoopback
 ### Commercial Paper tutorial
 https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/
 
+
+### Add a Loopback4 REST api Client - TypeScript 
+https://github.com/horeaporutiu/commercialPaperLoopback
+
+
+### Add a Web Interface( time permitting)
+https://developer.ibm.com/tutorials/queries-commercial-paper-smart-contract-ibm-blockchain-vscode-extension/
+
+
+
 ### Quick Start Guide
 https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/ 
 
 ### Hyperledger Fabric Documentation (ver 1.4.x)
 [Hyperledger Fabric v1.4 docs](https://hyperledger-fabric.readthedocs.io/)
 
-### [IBM Blockchain Platform]
-https://www.ibm.com/blockchain/platform
 
-### Sign up for free IBM Cloud account  
-https://cloud.ibm.com
+
+
 
 ## Other Resources, tutorials and code-patterns 
+
+## IBM Developer Advocacy material related to Hyperledger Fabric
+
 ### IBM Developer website 
 https://developer.ibm.com/
 
+### IBM Blockchain Platform
+https://www.ibm.com/blockchain/platform
+
+### Sign up for an IBM Cloud account  
+https://cloud.ibm.com
+
+### A million and one ways to craft Smart Contracts for Blockchain - blog post
+https://medium.com/@grantsteinfeld/a-million-and-one-ways-to-craft-smart-contracts-for-blockchain-2aa63117d7a0
+
+### Hyperledger Fabric for the Enterprise - Privacy and Security strategies - workshop
+https://github.com/Grant-Steinfeld/hlf-private-data
+
+### Hyperledger Fabric and IBM Blockchain — privacy and security strategies for the enterprise - blog post
+https://medium.com/@grantsteinfeld/hyperledger-fabric-and-ibm-blockchain-privacy-and-security-strategies-for-the-enterprise-3c43ded6f5fd
+
+### Blockchain: Ensure the certification of material and components in the maritime industry - blog post
+https://medium.com/nycdev/blockchain-ensure-the-certification-of-material-and-components-in-the-maritime-industry-fb68cc32561f
+
+### Create a fair trade supply chain network - Use Hyperledger Fabric and IBM Blockchain Platform to increase efficiency in the supply chain of a coffee retailer - Code Pattern on IBM Developer
+
+https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/
 
 
 ## Help contact the presenter
 
 ```
 Grant Steinfeld
-   IBM Developer Advocate Blockchain / Java / NodeJS -- North America East
+   IBM Developer Advocate Blockchain / JVM / NodeJS -- North America East
    Twitter        @gsteinfeld
    LinkedIn:      https://linkedin.com/in/grant-steinfeld
 ```
