@@ -33,9 +33,14 @@ If you have any trouble setting them up, don't worry we can help you either befo
 ## Development on your local environment
 ### We will walk you through and help you to code this excellent tutorial on IBM Developer 
 Run a commercial paper smart contract with the IBM Blockchain VS Code extension
+
 https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/
 
 
+## Add REST (Loopback4) API
+This is an application that acts as a front end for interacting with the commercial paper smart contract tutorial from the Hyperledger Fabric 1.4 documentation. Here is the video tutorial that accompanies this repo. 
+
+https://github.com/horeaporutiu/commercialPaperLoopback
 
 
 ## Resources
