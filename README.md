@@ -6,10 +6,9 @@
 
 ![kickoff flyer](https://github.com/Grant-Steinfeld/HyperLedger-Fabric-Hands-On-Workshop/blob/master/images/ibm-rtp-tech-challenge-oct22.2019.jpg)
 
-This repository is available on github here: 
-## https://bit.ly/2J7DAN2
 
-Here is the [PowerPoint deck](https://github.com/Grant-Steinfeld/HyperLedger-Fabric-Hands-On-Workshop/blob/master/Hyperledger-Fabric-October.2019.v2.2.pptx) for this workshop.
+
+Here is Grant's slide deck [PowerPoint deck](https://github.com/Grant-Steinfeld/HyperLedger-Fabric-Hands-On-Workshop/blob/master/Hyperledger-Fabric-October.2019.v2.2.pptx) for this workshop.
 
 ## Learn to Build Blockchain Applications with Hyperledger Fabric
 
