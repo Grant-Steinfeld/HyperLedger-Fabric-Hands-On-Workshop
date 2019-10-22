@@ -56,7 +56,7 @@ https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm
 https://github.com/horeaporutiu/commercialPaperLoopback
 
 
-### Add a Web Interface( time permitting)
+### Add a Web Interface
 https://developer.ibm.com/tutorials/queries-commercial-paper-smart-contract-ibm-blockchain-vscode-extension/
 
 
