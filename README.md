@@ -1,16 +1,11 @@
-Hyperledger Fabric Code Workshop - Quick Start
 
-https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/# 
+# HyperLedger Fabric Hands On Workshop 
+## Tech Challenge Oct 22nd 2019
 
-https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/
-
-![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png) ![IBM](images/IBM-logo-all-colors.gif)
-
-
-This document is available online here: 
+This repository is available on github here: 
 ## https://bit.ly/2J7DAN2
 
-Here is the [PowerPoint deck](./Hyperledger-Fabric-March.2019.v2.1.pptx) for this workshop.
+Here is the [PowerPoint deck](https://github.com/Grant-Steinfeld/HyperLedger-Fabric-Hands-On-Workshop/blob/master/Hyperledger-Fabric-October.2019.v2.2.pptx) for this workshop.
 
 ## Learn to Build Blockchain Applications with Hyperledger Fabric
 
@@ -31,46 +26,53 @@ Please setup the following [prerequisites](./PREREQUISITES.md) before the worksh
 If you have any trouble setting them up, don't worry we can help you either before or after the workshop.
 
 
-# Steps
+## Agenda
+1. Presentation
+1. Hands On Workshop - code along or follow along
+
 ## Development on your local environment
 ### We will walk you through and help you to code this excellent tutorial on IBM Developer 
-[Run a commercial paper smart contract with the IBM Blockchain VS Code extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
-
-
-
-
-#### Resources
-
-https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/
+Run a commercial paper smart contract with the IBM Blockchain VS Code extension
 
 https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/
 
- [Hyperledger Fabric v1.4 docs](https://hyperledger-fabric.readthedocs.io/)
+
+## Add REST (Loopback4) API
+This is an application that acts as a front end for interacting with the commercial paper smart contract tutorial from the Hyperledger Fabric 1.4 documentation. Here is the video tutorial that accompanies this repo. 
+
+https://github.com/horeaporutiu/commercialPaperLoopback
 
 
-[IBM Blockchain Platform](https://www.ibm.com/blockchain/platform)
+## Resources
 
-## Sign up for free IBM Cloud account  https://cloud.ibm.com
+### Commercial Paper tutorial
+https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/
 
-Other Resources, tutorials and code-patterns - [IBM Developer website](https://developer.ibm.com/)
+### Quick Start Guide
+https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/ 
 
+### Hyperledger Fabric Documentation (ver 1.4.x)
+[Hyperledger Fabric v1.4 docs](https://hyperledger-fabric.readthedocs.io/)
 
-## For future events and meetups 
-[IBM Developer Events](https://developer.ibm.com/events/)
+### [IBM Blockchain Platform]
+https://www.ibm.com/blockchain/platform
+
+### Sign up for free IBM Cloud account  
+https://cloud.ibm.com
+
+## Other Resources, tutorials and code-patterns 
+### IBM Developer website 
+https://developer.ibm.com/
+
 
 
 ## Help contact the presenter
 
 ```
 Grant Steinfeld
-IBM Developer Advocate Blockchain / Java / NodeJS -- North America East
+   IBM Developer Advocate Blockchain / Java / NodeJS -- North America East
    Twitter        @gsteinfeld
    LinkedIn:      https://linkedin.com/in/grant-steinfeld
 ```
 
 
-
-## Troubleshooting
-1. always have latest Docker and Docker compose setup.
-1. brew uninstall docker-machine
-Uninstalling /usr/local/Cellar/docker-machine/0.16.1... (11 files, 35.8MB)
