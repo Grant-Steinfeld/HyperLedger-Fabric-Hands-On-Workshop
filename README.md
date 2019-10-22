@@ -5,7 +5,7 @@
 This repository is available on github here: 
 ## https://bit.ly/2J7DAN2
 
-Here is the [PowerPoint deck](./Hyperledger-Fabric-March.2019.v2.1.pptx) for this workshop.
+Here is the [PowerPoint deck](https://github.com/Grant-Steinfeld/HyperLedger-Fabric-Hands-On-Workshop/blob/master/Hyperledger-Fabric-October.2019.v2.2.pptx) for this workshop.
 
 ## Learn to Build Blockchain Applications with Hyperledger Fabric
 
