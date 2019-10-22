@@ -1,5 +1,6 @@
-
-![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png) ![IBM](images/IBM-logo-all-colors.gif)
+# HyperLedger Fabric Hands On Workshop 
+![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png) 
+![IBM](images/IBM-logo-all-colors.gif)
 
 
 This repository is available on github here: 
