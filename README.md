@@ -1,13 +1,8 @@
-Hyperledger Fabric Code Workshop - Quick Start
-
-https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/# 
-
-https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/
 
 ![Hyperledger Fabric](images/hyperledger_fabric_logo_color.png) ![IBM](images/IBM-logo-all-colors.gif)
 
 
-This document is available online here: 
+This repository is available on github here: 
 ## https://bit.ly/2J7DAN2
 
 Here is the [PowerPoint deck](./Hyperledger-Fabric-March.2019.v2.1.pptx) for this workshop.
@@ -31,46 +26,48 @@ Please setup the following [prerequisites](./PREREQUISITES.md) before the worksh
 If you have any trouble setting them up, don't worry we can help you either before or after the workshop.
 
 
-# Steps
+## Agenda
+1. Presentation
+1. Hands On Workshop - code along or follow along
+
 ## Development on your local environment
 ### We will walk you through and help you to code this excellent tutorial on IBM Developer 
-[Run a commercial paper smart contract with the IBM Blockchain VS Code extension](https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/)
-
-
-
-
-#### Resources
-
-https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/
-
+Run a commercial paper smart contract with the IBM Blockchain VS Code extension
 https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/
 
- [Hyperledger Fabric v1.4 docs](https://hyperledger-fabric.readthedocs.io/)
 
 
-[IBM Blockchain Platform](https://www.ibm.com/blockchain/platform)
 
-## Sign up for free IBM Cloud account  https://cloud.ibm.com
+## Resources
 
-Other Resources, tutorials and code-patterns - [IBM Developer website](https://developer.ibm.com/)
+### Commercial Paper tutorial
+https://developer.ibm.com/tutorials/run-commercial-paper-smart-contract-with-ibm-blockchain-vscode-extension/
 
+### Quick Start Guide
+https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/ 
 
-## For future events and meetups 
-[IBM Developer Events](https://developer.ibm.com/events/)
+### Hyperledger Fabric Documentation (ver 1.4.x)
+[Hyperledger Fabric v1.4 docs](https://hyperledger-fabric.readthedocs.io/)
+
+### [IBM Blockchain Platform]
+https://www.ibm.com/blockchain/platform
+
+### Sign up for free IBM Cloud account  
+https://cloud.ibm.com
+
+## Other Resources, tutorials and code-patterns 
+### IBM Developer website 
+https://developer.ibm.com/
+
 
 
 ## Help contact the presenter
 
 ```
 Grant Steinfeld
-IBM Developer Advocate Blockchain / Java / NodeJS -- North America East
+   IBM Developer Advocate Blockchain / Java / NodeJS -- North America East
    Twitter        @gsteinfeld
    LinkedIn:      https://linkedin.com/in/grant-steinfeld
 ```
 
 
-
-## Troubleshooting
-1. always have latest Docker and Docker compose setup.
-1. brew uninstall docker-machine
-Uninstalling /usr/local/Cellar/docker-machine/0.16.1... (11 files, 35.8MB)
