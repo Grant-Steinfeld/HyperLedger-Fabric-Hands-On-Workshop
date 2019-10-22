@@ -1,6 +1,10 @@
 
 # HyperLedger Fabric Hands On Workshop 
 ## Tech Challenge Oct 22nd 2019
+### Ana Biazetti - Senior Technical Staff Member - Chief Architect for TradeLens
+### Grant Steinfeld - Developer Advocate - Blockchain / Java JVM, NodeJS, IBM Cognitive Applications
+
+![kickoff flyer](https://github.com/Grant-Steinfeld/HyperLedger-Fabric-Hands-On-Workshop/blob/master/images/ibm-rtp-tech-challenge-oct22.2019.jpg)
 
 This repository is available on github here: 
 ## https://bit.ly/2J7DAN2
